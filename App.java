@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Git Hub Homework " );
-        System.out.println( "git pull --rebase <remote> " );
+        System.out.println( " git pull https://github.com/harshadnayi1/Homework" );
     }
 }
